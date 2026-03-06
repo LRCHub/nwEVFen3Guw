@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "XAN - HENNY feat. Ccn (Official Music Video)",
+  "base_artist": "XAN",
+  "createdAt": "2026-03-06T07:56:38.090763Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Xan",
+      "artist": "Luv Resval",
+      "has_synced": true,
+      "path": "select/01_Xan_Luv_Resval.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lil Xan - SLOPE (Official Video)",
+      "artist": "Lil Xan",
+      "has_synced": true,
+      "path": "select/02_Lil_Xan_-_SLOPE_(Official_Video)_Lil_Xan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lil Xan - Watch Me Fall (Official Music Video)",
+      "artist": "Lil Xan",
+      "has_synced": true,
+      "path": "select/03_Lil_Xan_-_Watch_Me_Fall_(Official_Music_Video)_Lil_Xan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Yung Xan",
+      "artist": "Yung Bans feat. Lil Xan",
+      "has_synced": true,
+      "path": "select/04_Yung_Xan_Yung_Bans_feat._Lil_Xan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Yung Xan (feat. Lil Xan)",
+      "artist": "Yung Bans",
+      "has_synced": true,
+      "path": "select/05_Yung_Xan_(feat._Lil_Xan)_Yung_Bans.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Color Blind (feat. Lil Xan)",
+      "artist": "Diplo",
+      "has_synced": true,
+      "path": "select/06_Color_Blind_(feat._Lil_Xan)_Diplo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Xan Cage",
+      "artist": "LUCKI",
+      "has_synced": true,
+      "path": "select/07_Xan_Cage_LUCKI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Deeper Love (Xan Griffin Remix)",
+      "artist": "Botnek & I See Monstas",
+      "has_synced": true,
+      "path": "select/08_Deeper_Love_(Xan_Griffin_Remix)_Botnek_&_I_See_Monstas.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Yung Xan (feat. Lil Xan)",
+      "artist": "Yung Bans feat. Lil Xan",
+      "has_synced": true,
+      "path": "select/09_Yung_Xan_(feat._Lil_Xan)_Yung_Bans_feat._Lil_Xan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stars (ft. Lil Xan)",
+      "artist": "Steve Aoki feat. Lil Xan",
+      "has_synced": true,
+      "path": "select/10_Stars_(ft._Lil_Xan)_Steve_Aoki_feat._Lil_Xan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Swimming (feat. Trippie Redd & Lil Xan)",
+      "artist": "Baby Goth",
+      "has_synced": true,
+      "path": "select/11_Swimming_(feat._Trippie_Redd_&_Lil_Xan)_Baby_Goth.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Color Blind (feat. Lil Xan)",
+      "artist": "Diplo",
+      "has_synced": true,
+      "path": "select/12_Color_Blind_(feat._Lil_Xan)_Diplo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stars (ft. Lil Xan)",
+      "artist": "Steve Aoki/Lil Xan",
+      "has_synced": true,
+      "path": "select/13_Stars_(ft._Lil_Xan)_Steve_Aoki_Lil_Xan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "No Consequences (feat. Lil Xan & $teven Cannon)",
+      "artist": "Chad Tepper",
+      "has_synced": false,
+      "path": "select/14_No_Consequences_(feat._Lil_Xan_&_$teven_Cannon)_Chad_Tepper.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lil Xan - Far",
+      "artist": "Lil Xan",
+      "has_synced": true,
+      "path": "select/15_Lil_Xan_-_Far_Lil_Xan.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Anti Xan",
+      "artist": "Qaab/Abix",
+      "has_synced": true,
+      "path": "select/16_Anti_Xan_Qaab_Abix.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Lil Xan - Wake Up (Official Live Performance) | Vevo LIFT",
+      "artist": "Lil Xan",
+      "has_synced": true,
+      "path": "select/17_Lil_Xan_-_Wake_Up_(Official_Live_Performance)___Vevo_LIFT_Lil_Xan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HENNY (feat. Ccn)",
+      "artist": "XAN",
+      "has_synced": false,
+      "path": "select/pl_01_HENNY_(feat._Ccn)_XAN.txt"
+    }
+  ]
+}
